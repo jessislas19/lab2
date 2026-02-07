@@ -1,3 +1,3 @@
 # lab2
 
-https://github.com/jessislas19/lab2
+https://jessislas19.github.io/lab2/
